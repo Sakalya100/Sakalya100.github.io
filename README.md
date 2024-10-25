@@ -14,7 +14,7 @@
 ## install
 
 ```sh
-git clone 
+git clone git@github.com:Sakalya100/Sakalya100.github.io.git
 ```
 
 ## usage
@@ -31,8 +31,8 @@ a webpage to showcase my experience, education, skill-set, projects, certificate
 
 **alok raj (alokr417@gmail.com)**
 
-- website: 
-- linkedin: [@alok722](https://linkedin.com/in/Sakalya100)
+- website: https://sakalya100.github.io/
+- Linkedin: [@SakalyaMitra](https://linkedin.com/in/Sakalya100)
 
 ## 🚀 future scope
 
@@ -47,6 +47,6 @@ give a ⭐️ if you are using this template for your webpage.
 
 ## 📝 license
 
-This project is [MIT](https://github.com/alok722/alokraj/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/Sakalya100/Sakalya100.github.io/blob/main/LICENSE) licensed.
 
 ---
