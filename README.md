@@ -29,7 +29,7 @@ a webpage to showcase my experience, education, skill-set, projects, certificate
 
 ## 👤 author
 
-**alok raj (alokr417@gmail.com)**
+**Sakalya Mitra (sakalyamitra@gmail.com)**
 
 - website: https://sakalya100.github.io/
 - Linkedin: [@SakalyaMitra](https://linkedin.com/in/Sakalya100)
@@ -41,7 +41,6 @@ a webpage to showcase my experience, education, skill-set, projects, certificate
 - adding blog section
 - adding contact me section
 
-## show your support
 
 give a ⭐️ if you are using this template for your webpage.
 
