@@ -722,6 +722,10 @@ input:checked+.slider:before {
   display: flex;
 }
 
+.chat-header .chat-heading-message{
+  font-size: medium;
+  font-weight: 400;
+}
 .refresh-button {
   background: none;
   border: none;
