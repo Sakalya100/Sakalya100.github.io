@@ -194,6 +194,12 @@ ul {
   list-style-type: square;
 }
 
+.exp>span:last-child {
+  position: absolute;
+  right: 30px;
+  color: #4458dc;
+}
+
 /* End Experience Area */
 
 /* Start Technical Skills Area */
@@ -385,6 +391,17 @@ ul {
   font-size: 1rem;
   font-weight: 500;
   position: relative;
+}
+
+.faq-accordion .card-title .card-toggle {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.faq-accordion .card-title .card-toggle .svg-inline--fa {
+  color: #888fef;
 }
 
 .faq-accordion .card-title a {

@@ -1,11 +1,12 @@
 $(document).ready(function () {
 
-    $('.card-toggle').on('click', function () {
-        if ($(this).find('svg').attr('data-icon') == 'chevron-down') {
-            $(this).find('svg').attr('data-icon', 'chevron-up');
+    $('.card-header[data-toggle="collapse"]').on('click', function () {
+        const cardToggle = $(this).find('.card-toggle');
+        if (cardToggle.find('svg').attr('data-icon') == 'chevron-down') {
+            cardToggle.find('svg').attr('data-icon', 'chevron-up');
         } else {
-            $(this).find('svg').attr('data-icon', 'chevron-down');
-        };
+            cardToggle.find('svg').attr('data-icon', 'chevron-down');
+        }
     });
 
     let $btns = $('.project-area .button-group button');
